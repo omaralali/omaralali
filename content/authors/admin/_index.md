@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Omar AlAli
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California - San Diego
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Concentrated Solar Power, Water Desalination, and Supercritical-CO2 Thermal Power Cycles
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Concentrated Solar Power
+- Water Desalination
+- Supercritical-CO2 Thermal Power Cycles
 
 education:
   courses:
